@@ -1,0 +1,2 @@
+C:/Users/tecno/AndroidStudioProjects/pr_calculator/android/app/.cxx/Debug/1x50233v/x86/CMakeFiles/edit_cache.dir
+C:/Users/tecno/AndroidStudioProjects/pr_calculator/android/app/.cxx/Debug/1x50233v/x86/CMakeFiles/rebuild_cache.dir
