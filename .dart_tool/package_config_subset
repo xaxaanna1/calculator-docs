@@ -1,5 +1,5 @@
-your_app_name
-2.19
+pr_calculator
+3.7
 file:///C:/Users/tecno/AndroidStudioProjects/pr_calculator/
 file:///C:/Users/tecno/AndroidStudioProjects/pr_calculator/lib/
 args
@@ -35,9 +35,9 @@ fake_async
 file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.2/
 file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.2/lib/
 flutter_lints
-2.19
-file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.3/
-file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.3/lib/
+3.5
+file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-5.0.0/
+file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-5.0.0/lib/
 flutter_markdown
 3.3
 file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_markdown-0.6.23/
@@ -63,9 +63,9 @@ leak_tracker_testing
 file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.1/
 file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.1/lib/
 lints
-3.0
-file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.1.1/
-file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.1.1/lib/
+3.6
+file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1/
+file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1/lib/
 markdown
 3.2
 file:///C:/Users/tecno/AppData/Local/Pub/Cache/hosted/pub.dev/markdown-7.3.0/

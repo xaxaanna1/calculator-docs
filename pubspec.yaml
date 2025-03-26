@@ -1,0 +1,23 @@
+name: pr_calculator
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"  # Убедитесь, что версия SDK корректна
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_markdown: ^0.6.0  # Исправлен отступ
+  http: ^0.13.3
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

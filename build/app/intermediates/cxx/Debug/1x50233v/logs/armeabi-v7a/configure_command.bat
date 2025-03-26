@@ -7,9 +7,9 @@
   "-DANDROID_PLATFORM=android-21" ^
   "-DANDROID_ABI=armeabi-v7a" ^
   "-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a" ^
-  "-DANDROID_NDK=C:\\Users\\tecno\\AppData\\Local\\Android\\sdk\\ndk\\29.0.13113456" ^
-  "-DCMAKE_ANDROID_NDK=C:\\Users\\tecno\\AppData\\Local\\Android\\sdk\\ndk\\29.0.13113456" ^
-  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\tecno\\AppData\\Local\\Android\\sdk\\ndk\\29.0.13113456\\build\\cmake\\android.toolchain.cmake" ^
+  "-DANDROID_NDK=C:\\Users\\tecno\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456" ^
+  "-DCMAKE_ANDROID_NDK=C:\\Users\\tecno\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\tecno\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456\\build\\cmake\\android.toolchain.cmake" ^
   "-DCMAKE_MAKE_PROGRAM=C:\\Users\\tecno\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
   "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\tecno\\AndroidStudioProjects\\pr_calculator\\build\\app\\intermediates\\cxx\\Debug\\1x50233v\\obj\\armeabi-v7a" ^
   "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\tecno\\AndroidStudioProjects\\pr_calculator\\build\\app\\intermediates\\cxx\\Debug\\1x50233v\\obj\\armeabi-v7a" ^
