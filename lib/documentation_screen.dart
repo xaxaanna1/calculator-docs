@@ -19,7 +19,7 @@ class _DocumentationScreenState extends State<DocumentationScreen> {
   Future<void> _loadMarkdown() async {
     try {
       final response = await http.get(Uri.parse(
-          'https://54895834958493.github.io/calculator-docs/documentation.md'));
+          'https://xaxaanna1.github.io/calculator-docs/documentation.md'));
       if (response.statusCode == 200) {
         setState(() {
           _markdownData = response.body;
